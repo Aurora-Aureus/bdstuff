@@ -1,0 +1,31 @@
+{
+	"choices": {
+		"defaultFilter": "channel",
+		"defaultSort": "notetime",
+		"defaultOrder": "ascending"
+	},
+	"notes": {
+		"814607267272851477": {
+			"822355037920821248": {
+				"891410002030493727": {
+					"addedat": 1632599165202,
+					"channel": "{\"id\":\"822355037920821248\",\"type\":0,\"name\":\"general\",\"topic\":\"\",\"position\":10,\"guild_id\":\"814607267272851477\",\"recipients\":[],\"rawRecipients\":[],\"permissionOverwrites\":{\"836621826301362236\":{\"id\":\"836621826301362236\",\"type\":0,\"allow\":\"0\",\"deny\":\"2112\"}},\"bitrate\":64000,\"rtcRegion\":null,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":\"814607267272851478\",\"memberListId\":null,\"rateLimitPerUser\":0,\"defaultAutoArchiveDuration\":null,\"originChannelId\":null,\"lastMessageId\":\"891406148392071218\",\"lastPinTimestamp\":\"2021-09-22T19:12:38+00:00\"}",
+					"id": "891410002030493727",
+					"message": "{\"id\":\"891410002030493727\",\"type\":19,\"channel_id\":\"822355037920821248\",\"author\":{\"id\":\"327848148997373954\",\"username\":\"Infinity\",\"discriminator\":\"0222\",\"avatar\":\"cf78222d6fcb3375ad76f5e9e6e159ed\",\"email\":null,\"verified\":false,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":false,\"desktop\":false,\"flags\":128,\"publicFlags\":128,\"purchasedFlags\":0,\"premiumUsageFlags\":0,\"phone\":null,\"banner\":null,\"accentColor\":5832718,\"bio\":\"cishet white american male ||im very cringe|| also im very happy :)\",\"guildMemberAvatars\":{}},\"content\":\"this is supposed to be a discord bot\",\"attachments\":[],\"embeds\":[],\"mentions\":[\"408272648598978581\"],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":true,\"pinned\":false,\"mentionEveryone\":false,\"tts\":false,\"codedLinks\":[],\"giftCodes\":[],\"timestamp\":\"2021-09-25T19:45:06.081Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":\"891410002059722752\",\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"applicationId\":null,\"application\":null,\"activity\":null,\"messageReference\":{\"channel_id\":\"822355037920821248\",\"guild_id\":\"814607267272851477\",\"message_id\":\"891409953586294844\"},\"flags\":0,\"isSearchHit\":false,\"stickers\":[],\"stickerItems\":[],\"components\":[],\"loggingName\":null,\"interaction\":null,\"interactionData\":null,\"interactionError\":null}",
+					"timestamp": 1632599106081
+				}
+			}
+		},
+		"@me": {
+			"884908379930255380": {
+				"884909268787163228": {
+					"addedat": 1631049261371,
+					"channel": "{\"id\":\"884908379930255380\",\"type\":1,\"name\":\"\",\"topic\":\"\",\"position\":0,\"guild_id\":null,\"recipients\":[\"794338899216302120\"],\"rawRecipients\":[{\"avatar\":\"771e7bc40a3bcef45290b444bc01b761\",\"discriminator\":\"5686\",\"id\":\"794338899216302120\",\"username\":\"T  I  K  Y\",\"publicFlags\":0}],\"permissionOverwrites\":{},\"bitrate\":64000,\"rtcRegion\":null,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":null,\"memberListId\":null,\"rateLimitPerUser\":0,\"defaultAutoArchiveDuration\":null,\"originChannelId\":null,\"lastMessageId\":\"884908504241041408\",\"lastPinTimestamp\":null}",
+					"id": "884909268787163228",
+					"message": "{\"id\":\"884909268787163228\",\"type\":0,\"channel_id\":\"884908379930255380\",\"author\":{\"id\":\"794338899216302120\",\"username\":\"T  I  K  Y\",\"discriminator\":\"5686\",\"avatar\":\"771e7bc40a3bcef45290b444bc01b761\",\"email\":null,\"verified\":false,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":false,\"desktop\":false,\"flags\":0,\"publicFlags\":0,\"purchasedFlags\":0,\"premiumUsageFlags\":0,\"phone\":null,\"banner\":null,\"accentColor\":null,\"bio\":\"\",\"guildMemberAvatars\":{}},\"content\":\"what hint am I taking here\",\"attachments\":[],\"embeds\":[],\"mentions\":[],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":false,\"pinned\":false,\"mentionEveryone\":false,\"tts\":false,\"codedLinks\":[],\"giftCodes\":[],\"timestamp\":\"2021-09-07T21:13:30.498Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":\"891080049736810496\",\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"applicationId\":null,\"application\":null,\"activity\":null,\"messageReference\":null,\"flags\":0,\"isSearchHit\":false,\"stickers\":[],\"stickerItems\":[],\"components\":[],\"loggingName\":null,\"interaction\":null,\"interactionData\":null,\"interactionError\":null}",
+					"timestamp": 1631049210498
+				}
+			}
+		}
+	}
+}

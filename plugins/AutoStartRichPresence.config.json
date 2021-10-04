@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "lastChangelogVersionSeen": "2.0.4",
+        "rpcEventInjection": true
+    },
+    "profiles": [
+        {
+            "name": "New Profile"
+        }
+    ]
+}

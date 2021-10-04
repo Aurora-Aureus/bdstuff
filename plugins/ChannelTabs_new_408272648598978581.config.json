@@ -1,0 +1,47 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#memes",
+                "url": "/channels/840208010096803882/840291123150716948",
+                "selected": false,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/840208010096803882/0d7c06e3456e5789d0a95d879f013188.webp?",
+                "channelId": "840291123150716948"
+            },
+            {
+                "name": "#general",
+                "url": "/channels/814607267272851477/822355037920821248",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/814607267272851477/a_59074278278521d59082ba7e8c9ec578.webp?",
+                "channelId": "822355037920821248"
+            }
+        ],
+        "favs": [],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": false,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}
